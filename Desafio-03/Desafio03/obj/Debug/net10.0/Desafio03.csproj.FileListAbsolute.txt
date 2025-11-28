@@ -1,0 +1,15 @@
+C:\Users\pedro\OneDrive\Área de Trabalho\desafio-target\Desafio-03\Desafio03\bin\Debug\net10.0\Desafio03.exe
+C:\Users\pedro\OneDrive\Área de Trabalho\desafio-target\Desafio-03\Desafio03\bin\Debug\net10.0\Desafio03.deps.json
+C:\Users\pedro\OneDrive\Área de Trabalho\desafio-target\Desafio-03\Desafio03\bin\Debug\net10.0\Desafio03.runtimeconfig.json
+C:\Users\pedro\OneDrive\Área de Trabalho\desafio-target\Desafio-03\Desafio03\bin\Debug\net10.0\Desafio03.dll
+C:\Users\pedro\OneDrive\Área de Trabalho\desafio-target\Desafio-03\Desafio03\bin\Debug\net10.0\Desafio03.pdb
+C:\Users\pedro\OneDrive\Área de Trabalho\desafio-target\Desafio-03\Desafio03\obj\Debug\net10.0\Desafio03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pedro\OneDrive\Área de Trabalho\desafio-target\Desafio-03\Desafio03\obj\Debug\net10.0\Desafio03.AssemblyInfoInputs.cache
+C:\Users\pedro\OneDrive\Área de Trabalho\desafio-target\Desafio-03\Desafio03\obj\Debug\net10.0\Desafio03.AssemblyInfo.cs
+C:\Users\pedro\OneDrive\Área de Trabalho\desafio-target\Desafio-03\Desafio03\obj\Debug\net10.0\Desafio03.csproj.CoreCompileInputs.cache
+C:\Users\pedro\OneDrive\Área de Trabalho\desafio-target\Desafio-03\Desafio03\obj\Debug\net10.0\Desafio03.sourcelink.json
+C:\Users\pedro\OneDrive\Área de Trabalho\desafio-target\Desafio-03\Desafio03\obj\Debug\net10.0\Desafio03.dll
+C:\Users\pedro\OneDrive\Área de Trabalho\desafio-target\Desafio-03\Desafio03\obj\Debug\net10.0\refint\Desafio03.dll
+C:\Users\pedro\OneDrive\Área de Trabalho\desafio-target\Desafio-03\Desafio03\obj\Debug\net10.0\Desafio03.pdb
+C:\Users\pedro\OneDrive\Área de Trabalho\desafio-target\Desafio-03\Desafio03\obj\Debug\net10.0\Desafio03.genruntimeconfig.cache
+C:\Users\pedro\OneDrive\Área de Trabalho\desafio-target\Desafio-03\Desafio03\obj\Debug\net10.0\ref\Desafio03.dll
